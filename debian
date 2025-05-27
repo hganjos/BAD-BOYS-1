@@ -10,3 +10,4 @@
 ```bash
 sudo apt update
 sudo apt install bind9 isc-dhcp-server -
+```
